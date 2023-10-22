@@ -1,6 +1,6 @@
 ## Olá, me chamo Thomas e estou cursando Ciência da Computação.
 
-Ao decorrer do curso tive contato com diversas linguagens e tecnicas de programação, grande parte dos projetos realizados podem ser visualizados neste perfil.<br>
+Ao decorrer do curso tive contato com diversas linguagens e técnicas de programação, grande parte dos projetos realizados podem ser visualizados neste perfil.<br>
 
 
 <div align="center">
