@@ -1,6 +1,6 @@
 ## Olá, me chamo Thomas e estou cursando Ciência da Computação.
 
-Ao decorrer do curso tive contato com diversas linguagens e tecnicas de programação, grande parte dos projetos realizados podem ser visualizados neste perfil.
+Ao decorrer do curso tive contato com diversas linguagens e tecnicas de programação, grande parte dos projetos realizados podem ser visualizados neste perfil.<br>
 
 
 <div align="center">
@@ -29,7 +29,8 @@ Ao decorrer do curso tive contato com diversas linguagens e tecnicas de programa
   <img align="center" alt="Thomas-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg"/>
   
 </div>
-  
+
+<br> Atualmente tenho bastante familiaridade com C e Python.<br>
 ##
   <div> 
     <a href="mailto:thomassantospallarini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
