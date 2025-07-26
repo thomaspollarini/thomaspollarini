@@ -35,7 +35,6 @@ Ao longo do curso, tive a oportunidade de trabalhar com diversas linguagens e t√
 <br> Atualmente, estou concentrado no desenvolvimento de habilidades em front-end e back-end, com o objetivo de me tornar um programador full-stack experiente e vers√°til.<br>
 ##
   <div> 
+     <a href="https://www.linkedin.com/in/thomaspollarini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="mailto:thomassantospallarini@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.instagram.com/thomas_pollarini/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/thomaspollarini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
